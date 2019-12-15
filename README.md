@@ -1,4 +1,4 @@
-# MyJobRegistrationProject 
+# MyCandidateRegistrationProject 
 ##JobRegistrationJpa
 
 This project  main aim  is to register interview candidate for multiple position during company drive.
